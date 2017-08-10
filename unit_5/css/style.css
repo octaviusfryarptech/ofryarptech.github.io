@@ -1,0 +1,70 @@
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: auto;
+}
+
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: auto;
+}
+
+aside{
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: auto;
+}
+
+article{
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: auto;
+}
+
+footer{
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: auto;
+    width: auto;
+}
+
+ div / section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 30px;
+  }
+
+
+    #head {
+      text-decoration: underline;
+      text-transform: uppercase;
+      font-family: serif;
+    }
+
+    .info{
+      font-size: 16px;
+      font-weight: normal;
+    }
+
+    #art{
+      text-decoration: underline;
+      text-transform: uppercase;
+      font-family: serif;
+      font-weight: bold;
+    }
+
+    #art{
+      text-decoration: underline;
+      text-transform: uppercase;
+      font-family: serif;
+      font-weight: bold;
+    }
+
+    .description {
+      font-weight: bold;
+      font-family: serif;
+      font-weight: normal;
+    }
