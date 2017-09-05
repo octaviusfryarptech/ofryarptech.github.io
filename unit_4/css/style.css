@@ -78,3 +78,15 @@ img{
   color: #000;
   background: #fff;
 }
+
+nav {
+  font-size: 22px;
+  float: right;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 30px;
+  display: inline-block;
+}
