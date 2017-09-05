@@ -1,103 +1,92 @@
-
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: auto;
+body {
+  background-color: orange;
 }
 
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 21px;
+  color: Gray;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-family: 'Oswald', sans-serif
+}
+
+#slogan {
+  font-weight: bold;
+  font-size: 25px;
+  color: blue;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h3 {
+  font-family: cursive;
+  font-size: 17px;
+  color: white;
+}
+
+#bio{
+  padding: .8em 0;
+  font-variant: none;
+}
+
+
+#bio {
+  font-family: serif;
+  color: black;
+  font-size: 1.2em
+}
+
+#Explanation {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: black
+}
+
+#new{
+  color: black;
+  text-transform: uppercase;
+  text-decoration: underline;
+  border-bottom: 4px solid black;
+  font-weight: bold;
+  font-size: 22px;
+  display: inline-block;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+#extra {
+  float: left;
+  width: 50%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff;
+}
 
 nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: auto;
+  font-size: 22px;
+  float: right;
 }
 
-aside{
-    background-color: #FFC675;
-    border: 1px black solid;
-    padding: auto;
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 30px;
+  display: inline-block;
 }
-
-article{
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: auto;
-}
-
-
-#two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#left {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    width: 30%;
-}
-
-#right {
-    background-color: #E55B88;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    width: 62%;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-
-
-
-footer{
-    background-color: #FF957E;
-    border: 1px black solid;
-    padding: auto;
-    width: auto;
-}
-
- div / section {
-    background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 30px;
-  }
-
-
-    #head {
-      text-decoration: underline;
-      text-transform: uppercase;
-      font-family: serif;
-    }
-
-    .info{
-      font-size: 16px;
-      font-weight: normal;
-    }
-
-    #art{
-      text-decoration: underline;
-      text-transform: uppercase;
-      font-family: serif;
-      font-weight: bold;
-    }
-
-    #art{
-      text-decoration: underline;
-      text-transform: uppercase;
-      font-family: serif;
-      font-weight: bold;
-    }
-
-    .description {
-      font-weight: bold;
-      font-family: serif;
-      font-weight: normal;
-    }
